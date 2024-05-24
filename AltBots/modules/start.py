@@ -8,7 +8,7 @@ START_BUTTON = [
         Button.inline("• ᴄᴏᴍᴍᴀɴᴅs •", data="help_back")
     ],
     [
-        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/visible_spam_hub"),
+        Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/VisibleXsupport"),
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/visible_spam_hub")
     ],
     [
