@@ -14,7 +14,7 @@ HELP_BUTTON = [
       Button.inline("• ᴇxᴛʀᴀ •", data="extra")
     ],
     [
-      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/visible_spam_hub"),
+      Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/VisibleXsupport"),
       Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/visible_spam_hub")
     ]
   ]
@@ -136,7 +136,7 @@ async def helpback(event):
                 Button.inline("• ᴇxᴛʀᴀ •", data="extra")
               ],
               [
-                Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/visible_spam_hub"),
+                Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/VisibleXsupport"),
                 Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/visible_spam_hub")
               ]
             ]
