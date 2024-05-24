@@ -6,7 +6,7 @@ ign="center"><b>[⚡] 𝐕𝐈𝐒𝐈𝐁𝐋𝐄 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @Visible_XD
+- 📫 How to reach me https://t.me/visible_spam_hub
 - 😄 Pronouns: 𝐕𝐈𝐒𝐈𝐁𝐋𝐄 𝐏𝐀𝐏𝐀
 - 
 - ⚡ Fun fact: 𝐒𝐏𝐀𝐌 𝐌𝐄𝐊𝐄𝐑  
