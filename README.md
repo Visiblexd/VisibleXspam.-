@@ -1,6 +1,6 @@
 <h1 align="center"><b>[⚡] 𝗦𝗣𝗔𝗠𝗕𝗢𝗧 [⚡]</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋  𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
 <p align="center"><a href="https://t.me/AimmXD"><img src="https://telegra.ph/file/0b520f40be4bbca3835e2.jpg" width="400"></a></p>
 
