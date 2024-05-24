@@ -21,7 +21,7 @@ from datetime import datetime
 async def ping(e):
     if e.sender_id in SUDO_USERS:
         start = datetime.now()
-        altron = await e.reply(f"•[ 🍹AɪᴍX тум 🍹 ]•")
+        altron = await e.reply(f"•[ 🍹AɪᴍX тум @Visible_XD 🍹 ]•")
         end = datetime.now()
         mp = (end - start).microseconds / 1000
         await altron.edit(f"[🍹] 𝐕𝐈𝐒𝐈𝐁𝐋𝐄 𝐗 𝐒𝐏𝐀𝐌 𝐇𝐄𝐀𝐑\n[🏓] 𝐀𝐁𝐄 𝐀𝐁 𝐓𝐄𝐑𝐀 𝐊𝐘𝐀 𝐇𝐎𝐆𝐀 [🥵]\n\n➜ `{mp} ms`")
@@ -99,7 +99,7 @@ async def addsudo(event):
         Heroku = heroku3.from_key(HEROKU_API_KEY)
         sudousers = getenv("SUDO_USERS", default=None)
 
-        ok = await event.reply(f"»🍃 мєʀα єк σʀ иєω вєтα α∂∂ нσ gαуα 🍃")
+        ok = await event.reply(f"»🍃 𝐌𝐄𝐑𝐀 𝐄𝐐 𝐍𝐄𝐖 𝐁𝐄𝐓𝐀 𝐏𝐀𝐏𝐀 𝐁𝐎𝐋𝐍𝐄 𝐀𝐀 𝐆𝐀𝐘𝐀 🍃")
         target = ""
         if HEROKU_APP_NAME is not None:
             app = Heroku.app(HEROKU_APP_NAME)
