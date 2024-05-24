@@ -12,7 +12,7 @@ START_BUTTON = [
         Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/visible_spam_hub")
     ],
     [
-        Button.url("• ʀᴇᴘᴏ •", "https://mxfly.site/repo")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/Visiblexd/VisibleXspam.-.git")
     ]
 ]
 
